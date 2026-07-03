@@ -13,6 +13,11 @@ this is just a place where i exist and keep going.
 
 thanks for listening.
 
-<p align="center">
+<p align="end">
   <img src="drawing.png" width="400" alt="drawing">
 </p>
+
+<p align="end">
+   this is me and my girlfriend :) <br/>
+</p>
+
