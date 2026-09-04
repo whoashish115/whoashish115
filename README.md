@@ -56,7 +56,7 @@ frontend & APIs
 - [**terminal-portfolio**](https://github.com/whoashish115/terminal-portfolio) - terminal-style portfolio template with interactive CLI, ASCII art, and theme switching.
 - [**med-experts**](https://github.com/whoashish115/med-experts) - medical and physiotherapy landing page template with appointment booking and dark mode.
 
-### creative coding and algorithmic-art
+### creative coding and algorithmic art
 - [**sacred-geometry**](https://github.com/whoashish115/sacred-geometry) - meditative exploration of infinite geometric patterns and overlapping symmetry through code.
 - [**hypercube-visualization**](https://github.com/whoashish115/hypercube-visualization) - real-time projection of n-dimensional hypercubes into 3D space using CUDA and OpenGL.
 - [**procedural-map-generation**](https://github.com/whoashish115/procedural-map-generation) - procedural tile map generator driven by local pattern constraints.
