@@ -56,8 +56,18 @@ frontend & APIs
 - [**terminal-portfolio**](https://github.com/whoashish115/terminal-portfolio) - terminal-style portfolio template with interactive CLI, ASCII art, and theme switching.
 - [**med-experts**](https://github.com/whoashish115/med-experts) - medical and physiotherapy landing page template with appointment booking and dark mode.
 
-### game dev
+### creative coding and algorithmic-art
+- [**sacred-geometry**](https://github.com/whoashish115/sacred-geometry) - meditative exploration of infinite geometric patterns and overlapping symmetry through code.
+- [**hypercube-visualization**](https://github.com/whoashish115/hypercube-visualization) - real-time projection of n-dimensional hypercubes into 3D space using CUDA and OpenGL.
+- [**procedural-map-generation**](https://github.com/whoashish115/procedural-map-generation) - procedural tile map generator driven by local pattern constraints.
+- [**procedural-dungeon-generation**](https://github.com/whoashish115/procedural-dungeon-generation) - interactive dungeon generator using constraint-based pattern synthesis in p5.js.
+- [**sketches**](https://github.com/whoashish115/sketches) - a collection of generative algorithmic sketches exploring simple rules and randomness.
+- [**space-colonization-algorithm**](https://github.com/whoashish115/space-colonization-algorithm) - fast procedural generation of 2D/3D branching structures using CUDA.
 
+### alife
+- [**conway-game-of-life**](https://github.com/whoashish115/conway-game-of-life) - exploration of cellular automata, emergent behaviors, and various life-like rules.
+
+### game dev
 - [**cube-cracker**](https://github.com/whoashish115/cube-cracker) - interactive 3D Rubik's Cube simulator with Pygame, OpenGL, camera controls, and solve playback.
 - [**void-break**](https://github.com/whoashish115/void-break) - neon brick-breaker arcade game with 100 procedural levels, power-ups, and enemy bricks.
 - [**space-shooter**](https://github.com/whoashish115/space-shooter) - 2D space shooter with scrolling backgrounds, asteroid battles, a boss fight, and sound effects.
