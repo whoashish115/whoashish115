@@ -90,4 +90,4 @@ frontend & APIs
 - [**spoj**](https://github.com/whoashish115/spoj) - solutions to SPOJ classical problems in C++.
 - [**tensara**](https://github.com/whoashish115/tensara) - tensara solutions while learning CUDA and GPU programming.
 - [**rosalind**](https://github.com/whoashish115/rosalind) - solutions to Rosalind bioinformatics problems combining biology and algorithmic thinking in Rust.
-- [**sorting-algorithms**](https://github.com/whoashish115/sorting-algorithms) - hands-on implementations of classical and advanced sorting algorithms in C++.
+- [**rosalind**](https://github.com/whoashish115/project-euler) - solutions to project euler problem set (currently private due to their T&C)
