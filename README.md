@@ -2,11 +2,18 @@
   <img src="banner.jpg" >
 </p>
 
+
 <table>
-<tr>
+   <tr>
+    <td colspan="2">
+
+<h2 align="center">The Universe I'm Imagining</h2>
+
+  </tr>
+
 <td valign="top" width="62%">
 
-## The Universe I'm Imagining
+
 I'm a **developer, AI systems research engineer, polymath, and an unapologetic STEM nerd**. I like understanding things from the model down to the machine, and I enjoy moving between different areas of computing and science.
 
 My main focus is **AI systems**, especially LLMs, world models, generative & diffusion models, multimodal learning, reasoning, agentic systems and GPU computing.
@@ -14,19 +21,21 @@ My main focus is **AI systems**, especially LLMs, world models, generative & dif
 I'm also interested in **robotics, low-level systems, hardware-software co-design, neuroscience, AR/VR, graphics, animation, creative coding, artificial life, algorithms, competitive programming, and mathematics** ... honestly, the list is endless. I'm interested in almost everything, and sooner or later I usually want to learn it, build something with it, or both.
 
 I experiment a lot. I build things, test ideas, go down rabbit holes, and sometimes end up somewhere completely different from where I started.
-
 Mostly, I just love learning about things and making something with them.
 
 
 </td>
-<td align="right" valign="middle">
+<td align="center" valign="middle">
 
-<img src="desk.png" width="300" alt="desk">
+<img src="desk.png" width="460" alt="desk">
 
 </td>
 </tr>
 </table>
 
+Thanks for stopping by
+
+Feel free to look around, explore the projects, and wander through the things I've been building and experimenting with. Some of them are listed below, and there are plenty of side quests hidden around here too.
 
 ## Projects
 ### Systems & Low-Level
@@ -112,3 +121,4 @@ Mostly, I just love learning about things and making something with them.
 - [**SPOJ**](https://github.com/whoashish115/spoj) - Solutions to SPOJ Classical Problems in C++.
 - [**Tensara**](https://github.com/whoashish115/tensara) - Tensara solutions while learning CUDA and GPU programming.
 - [**Rosalind**](https://github.com/whoashish115/rosalind) - Solutions to Rosalind bioinformatics problems combining biology and algorithmic thinking in Rust.
+
