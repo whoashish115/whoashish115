@@ -7,7 +7,7 @@
    <tr>
     <td colspan="2">
 
-<h2 align="center">The Universe I'm Imagining</h2>
+<h3 align="center">The UNIVERSE I'm IMAGINING &nbsp; \(⁠╹⁠▽⁠╹⁠⁠)/ </h3>
 
   </tr>
 
