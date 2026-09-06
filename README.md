@@ -1,4 +1,4 @@
-i <p align="end">
+<p align="end">
   <img src="banner.jpg" >
 </p>
 
