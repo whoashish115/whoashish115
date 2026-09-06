@@ -33,12 +33,12 @@ Mostly, I just love learning about things and making something with them.
 </tr>
 </table>
 
-![Followers](https://img.shields.io/github/followers/whoashish115?style=for-the-badge&color=6C63FF&labelColor=6C63FF&logoColor=white&label=Followers&logo=github)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.following&label=Following&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.public_repos&label=Repos&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
-![Public Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.public_gists&label=Gists&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
-![Sponsors](https://img.shields.io/github/sponsors/whoashish115?style=for-the-badge&color=6C63FF&labelColor=6C63FF&logoColor=white&label=Sponsors&logo=githubsponsors)
-![Organizations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115%2Forgs&query=%24.length&label=Orgs&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/whoashish115?style=for-the-badge&color=C2428F&labelColor=C2428F&logoColor=white&label=Followers&logo=github)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.following&label=Following&color=C2428F&labelColor=C2428F&style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.public_repos&label=Repos&color=C2428F&labelColor=C2428F&style=for-the-badge&logo=github&logoColor=white)
+![Public Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.public_gists&label=Gists&color=C2428F&labelColor=C2428F&style=for-the-badge&logo=github&logoColor=white)
+![Sponsors](https://img.shields.io/github/sponsors/whoashish115?style=for-the-badge&color=C2428F&labelColor=C2428F&logoColor=white&label=Sponsors&logo=githubsponsors)
+![Organizations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115%2Forgs&query=%24.length&label=Orgs&color=C2428F&labelColor=C2428F&style=for-the-badge&logo=github&logoColor=white)
 
 
 Thanks for stopping by
@@ -151,5 +151,5 @@ Your sponsorship means a lot to me. It will help me sustain my projects actively
 
 ## Visitors
 <p align="start">
-  <img src="https://count.getloli.com/@whoashish115?name=whoashish115&theme=rule34&padding=16&offset=0&align=top&scale=1.6&pixelated=1&darkmode=auto" width="850" />
+  <img src="https://count.getloli.com/@whoashish115?name=whoashish115&theme=booru-qualityhentais&padding=16&offset=0&align=top&scale=1.6&pixelated=1&darkmode=auto" width="850" />
 </p>
