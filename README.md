@@ -1,4 +1,4 @@
-<p align="end">
+i <p align="end">
   <img src="banner.jpg" >
 </p>
 
@@ -33,9 +33,31 @@ Mostly, I just love learning about things and making something with them.
 </tr>
 </table>
 
+![Followers](https://img.shields.io/github/followers/whoashish115?style=for-the-badge&color=6C63FF&labelColor=6C63FF&logoColor=white&label=Followers&logo=github)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.following&label=Following&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.public_repos&label=Repos&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
+![Public Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115&query=%24.public_gists&label=Gists&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
+![Sponsors](https://img.shields.io/github/sponsors/whoashish115?style=for-the-badge&color=6C63FF&labelColor=6C63FF&logoColor=white&label=Sponsors&logo=githubsponsors)
+![Organizations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwhoashish115%2Forgs&query=%24.length&label=Orgs&color=6C63FF&labelColor=6C63FF&style=for-the-badge&logo=github&logoColor=white)
+
+
 Thanks for stopping by
 
-Feel free to look around, explore the projects, and wander through the things I've been building and experimenting with. Some of them are listed below, and there are plenty of side quests hidden around here too.
+Feel free to look around, explore the projects, and wander through the things I've been building and experimenting with. You'll find a list of them further down, along with plenty of side quests hidden around here too.
+
+## Contact
+
+**In This Dream, I Am Here in Reality**
+
+[Website](https://whoashish.com) · [GitHub](https://github.com/whoashish115) · [LinkedIn](https://linkedin.com/in/whoashish115) · [Hugging Face](https://huggingface.co/whoashish115) · [Kaggle](https://www.kaggle.com/whoashish115) · [Bluesky](https://bsky.app/profile/whoashish115.bsky.social) · [Mastodon](https://mastodon.social/@whoashish115) · [Matrix](https://matrix.to/#/@whoashish115:matrix.org) · [E-Mail](mailto:hello@whoashish.com)
+
+**GitHub Quests**
+
+[Created PRs](https://github.com/pulls?q=is%3Apr+author%3Awhoashish115+-user%3Awhoashish115) · [Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Awhoashish115+is%3Amerged+) · [Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Awhoashish115+-user%3Awhoashish115) · [All Involvements](https://github.com/pulls?q=involves%3Awhoashish115+-user%3Awhoashish115)
+
+**Sponsors**
+
+Your sponsorship means a lot to me. It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PRs on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/whoashish115).
 
 ## Projects
 ### Systems & Low-Level
@@ -62,7 +84,7 @@ Feel free to look around, explore the projects, and wander through the things I'
 
 #### Frontend & APIs
 
-- [**Nyron Ring**](https://github.com/whoashish115/nyron-ring) - Open-source webring template with a member directory, tag search, combined RSS blog, and an embeddable ring widget.
+- [**Nyron Ring**](https://github.com/whoashish115/nyron-ring) - Open-source webring template with a member directory, tag search, combined RSS blog and a widget.
 - [**Retro Palace**](https://github.com/whoashish115/retro-palace) - Retro 88×31 button maker with a layer-based editor, animations, and GIF export.
 - [**Vox Cell**](https://github.com/whoashish115/vox-cell) - Browser-based pixel art studio with layers, palettes, drawing tools, and filters.
 - [**Bit Space**](https://github.com/whoashish115/bit-space) - Browser-based ASCII art studio with image-to-ASCII conversion, FIGlet text, and rich exports.
