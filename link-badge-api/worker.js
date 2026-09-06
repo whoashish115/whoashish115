@@ -95,8 +95,8 @@ export default {
     const fontFamily = FONT_STACKS[fontParam] || fontParam; // pass through arbitrary font-family strings too
     const monospace = fontParam === "mono";
 
-    let fontSize = parseInt(url.searchParams.get("size") || "14", 10);
-    if (!Number.isFinite(fontSize) || fontSize < 8 || fontSize > 96) fontSize = 14;
+    let fontSize = parseInt(url.searchParams.get("size") || "15", 10);
+    if (!Number.isFinite(fontSize) || fontSize < 8 || fontSize > 96) fontSize = 15;
 
     let weight = url.searchParams.get("weight") || "400";
     if (!/^[0-9]{3}$/.test(weight)) weight = "400";
