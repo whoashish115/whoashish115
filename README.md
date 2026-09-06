@@ -62,10 +62,10 @@ Your sponsorship means a lot to me. It will help me sustain my projects actively
 ## Projects
 ### Systems & Low-Level
 
-- [**Hypertracer**](https://github.com/whoashish115/hypertracer) - From-scratch ray tracer in C++ with CUDA GPU acceleration and physically based rendering.
-- [**Wintergreen**](https://github.com/whoashish115/wintergreen) - Vector search library with Flat, IVF, HNSW, Product Quantization, and K-Means indexes in C++.
-- [**Autiepie**](https://github.com/whoashish115/autiepie) - Regex engine in C++ using Thompson's NFA construction for backtracking-free linear-time matching.
-- [**Uwun**](https://github.com/whoashish115/uwun) - Lightweight cross-platform VPN tunneling IP traffic over mutual TLS using OpenSSL in modern C++.
+- [<img src="assets/link-badges/hypertracer.svg" alt="Hypertracer" align="middle">](https://github.com/whoashish115/hypertracer) - From-scratch ray tracer in C++ with CUDA GPU acceleration and physically based rendering.
+- [<img src="assets/link-badges/wintergreen.svg" alt="Wintergreen" align="middle">](https://github.com/whoashish115/wintergreen) - Vector search library with Flat, IVF, HNSW, Product Quantization, and K-Means indexes in C++.
+- [<img src="assets/link-badges/autiepie.svg" alt="Autiepie" align="middle">](https://github.com/whoashish115/autiepie) - Regex engine in C++ using Thompson's NFA construction for backtracking-free linear-time matching.
+- [<img src="assets/link-badges/uwun.svg" alt="Uwun" align="middle">](https://github.com/whoashish115/uwun) - Lightweight cross-platform VPN tunneling IP traffic over mutual TLS using OpenSSL in modern C++.
 
 ### AI & Computer Vision
 
