@@ -31,16 +31,38 @@ const CHAR_WIDTH_EM = {
   "-": 0.3999, "+": 0.6841, "_": 0.415, "/": 0.3896, "&": 0.8003,
   "(": 0.3018, ")": 0.3018, '"': 0.3921, "?": 0.4482,
 };
+// Same, but from the actual Segoe UI Bold font file — bold glyphs are wider,
+// so reusing the regular table for bold text clips characters again.
+// See extract_metrics_bold.py.
+const CHAR_WIDTH_EM_BOLD = {
+  a: 0.5381, b: 0.6201, c: 0.48, d: 0.6191, e: 0.541, f: 0.3833, g: 0.6191,
+  h: 0.6021, i: 0.2842, j: 0.2842, k: 0.5591, l: 0.2842, m: 0.916, n: 0.605,
+  o: 0.6113, p: 0.6201, q: 0.6191, r: 0.3979, s: 0.4399, t: 0.3892, u: 0.605,
+  v: 0.542, w: 0.7974, x: 0.5522, y: 0.5381, z: 0.479,
+  A: 0.7031, B: 0.6411, C: 0.624, D: 0.7373, E: 0.5322, F: 0.52, G: 0.7109,
+  H: 0.7661, I: 0.3169, J: 0.4453, K: 0.6489, L: 0.5112, M: 0.957, N: 0.79,
+  O: 0.7583, P: 0.6143, Q: 0.7583, R: 0.6528, S: 0.5605, T: 0.5859, U: 0.7231,
+  V: 0.667, W: 1.0049, X: 0.6553, Y: 0.6069, Z: 0.6069,
+  "0": 0.5752, "1": 0.5752, "2": 0.5752, "3": 0.5752, "4": 0.5752,
+  "5": 0.5752, "6": 0.5752, "7": 0.5752, "8": 0.5752, "9": 0.5752,
+  " ": 0.2759, ".": 0.271, ",": 0.271, ":": 0.271, ";": 0.271,
+  "!": 0.3271, "'": 0.293, "|": 0.3262, "@": 0.9541, "%": 0.8672,
+  "-": 0.4043, "+": 0.707, "_": 0.415, "/": 0.4434, "&": 0.8496,
+  "(": 0.3691, ")": 0.3691, '"': 0.4932, "?": 0.438,
+};
 const DEFAULT_CHAR_WIDTH_EM = 0.55; // fallback for characters not in the table above
+const DEFAULT_CHAR_WIDTH_EM_BOLD = 0.6;
 
-function charWidthEm(c, monospace) {
-  if (monospace) return 0.6;
-  return CHAR_WIDTH_EM[c] ?? DEFAULT_CHAR_WIDTH_EM;
+function charWidthEm(c, monospace, bold) {
+  if (monospace) return bold ? 0.62 : 0.6;
+  const table = bold ? CHAR_WIDTH_EM_BOLD : CHAR_WIDTH_EM;
+  const fallback = bold ? DEFAULT_CHAR_WIDTH_EM_BOLD : DEFAULT_CHAR_WIDTH_EM;
+  return table[c] ?? fallback;
 }
 
-function textWidthPx(text, fontSize, monospace) {
+function textWidthPx(text, fontSize, monospace, bold) {
   let em = 0;
-  for (const c of text) em += charWidthEm(c, monospace);
+  for (const c of text) em += charWidthEm(c, monospace, bold);
   return em * fontSize;
 }
 
@@ -56,11 +78,12 @@ function isHexColor(s) {
 }
 
 function renderSvg({ text, color, fontFamily, fontSize, weight, monospace }) {
+  const bold = parseInt(weight, 10) >= 600;
   // `<img>`-embedded SVGs clip to their declared viewport regardless of
   // `overflow: visible` (that only works for inline/DOM-embedded SVGs), so
   // real headroom/descender room has to be baked into height/baseline math
   // instead of relying on overflow to reveal it.
-  const textWidth = textWidthPx(text, fontSize, monospace);
+  const textWidth = textWidthPx(text, fontSize, monospace, bold);
   const width = Math.max(Math.round(textWidth) + 1, 4);
   // Standard formula, always the same regardless of text/color/font.
   // Rendered with align="middle" so the browser centers the image against
