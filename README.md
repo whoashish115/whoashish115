@@ -123,6 +123,7 @@ Feel free to look around, explore the projects, and wander through the things I'
 - [**SPOJ**](https://github.com/whoashish115/spoj) - Solutions to SPOJ Classical Problems in C++.
 - [**Tensara**](https://github.com/whoashish115/tensara) - Tensara solutions while learning CUDA and GPU programming.
 - [**Rosalind**](https://github.com/whoashish115/rosalind) - Solutions to Rosalind bioinformatics problems combining biology and algorithmic thinking in Rust.
+- [**Project Euler**](https://github.com/whoashish115/project-euler) - Solutions to Project Euler problems in C++ exploring mathematical concepts.
 
 <br/>
 
