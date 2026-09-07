@@ -62,10 +62,10 @@ Your sponsorship means a lot to me. It will help me sustain my projects actively
 ## Projects
 ### Systems & Low-Level
 
-- [**Hypertracer**](https://github.com/whoashish115/hypertracer) - From-scratch ray tracer in C++ with CUDA GPU acceleration and physically based rendering.
-- [**Wintergreen**](https://github.com/whoashish115/wintergreen) - Vector search library with Flat, IVF, HNSW, Product Quantization, and K-Means indexes in C++.
-- [**Autiepie**](https://github.com/whoashish115/autiepie) - Regex engine in C++ using Thompson's NFA construction for backtracking-free linear-time matching.
-- [**Uwun**](https://github.com/whoashish115/uwun) - Lightweight cross-platform VPN tunneling IP traffic over mutual TLS using OpenSSL in modern C++.
+- [<img src="assets/link-badges/hypertracer.svg" alt="Hypertracer" align="middle">](https://github.com/whoashish115/hypertracer) - From-scratch ray tracer in C++ with CUDA GPU acceleration and physically based rendering.
+- [<img src="assets/link-badges/wintergreen.svg" alt="Wintergreen" align="middle">](https://github.com/whoashish115/wintergreen) - Vector search library with Flat, IVF, HNSW, Product Quantization, and K-Means indexes in C++.
+- [<img src="assets/link-badges/autiepie.svg" alt="Autiepie" align="middle">](https://github.com/whoashish115/autiepie) - Regex engine in C++ using Thompson's NFA construction for backtracking-free linear-time matching.
+- [<img src="assets/link-badges/uwun.svg" alt="Uwun" align="middle">](https://github.com/whoashish115/uwun) - Lightweight cross-platform VPN tunneling IP traffic over mutual TLS using OpenSSL in modern C++.
 
 ### AI & Computer Vision
 
@@ -149,7 +149,21 @@ Your sponsorship means a lot to me. It will help me sustain my projects actively
 
 <br/>
 
+## Widgets
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=whoashish115&layout=compact&langs_count=20&disable_animations=true&theme=omni&border_color=00000000" width="49.5%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=whoashish115&custom_title=Nerdy%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni&border_color=00000000" width="49.5%" />
+
+</div>
+
+<p align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=whoashish115&theme=dracula&no-frame=true&margin-w=8&margin-h=8&column=10&row=1" alt="GitHub Profile Trophies" />
+</p>
+
+
 ## Visitors
 <p align="start">
   <img src="https://count.getloli.com/@whoashish115?name=whoashish115&theme=booru-qualityhentais&padding=16&offset=0&align=top&scale=1.6&pixelated=1&darkmode=auto" width="850" />
 </p>
+
