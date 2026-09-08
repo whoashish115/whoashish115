@@ -1,7 +1,7 @@
-name: GitHub-Profile-3D-Contrib
+name: 3d contribution
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -12,12 +12,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
       - uses: actions/checkout@v5
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Apply C2428F theme
+        run: |
+          find profile-3d-contrib -type f -name "*.svg" -exec sed -i \
+            -e 's/#39d353/#C2428F/g' \
+            -e 's/#26a641/#D77BAD/g' \
+            -e 's/#006d32/#E9A8CC/g' \
+            -e 's/#0e4429/#F7D6EA/g' \
+            {} +
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
