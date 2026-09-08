@@ -21,7 +21,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: whoashish115
-          github_token: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             github-contribution-grid-snake.svg?color_snake=%23C2428F&color_dots=%23F7D6EA,%23E9A8CC,%23D77BAD,%23C2428F,%23A52F72
             github-contribution-grid-snake-dark.svg?color_snake=%23C2428F&color_dots=%230D0D0D,%23301A29,%236B2B50,%23A83E78,%23C2428F
