@@ -1,0 +1,32 @@
+{
+  "name": "link-badge",
+  "version": "1.0.0",
+  "description": "Render any text as a transparent, tightly-fitted coloured SVG - for coloured, non-boxed clickable links in a GitHub README.",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "link-badge": "bin/cli.js"
+  },
+  "main": "src/render.js",
+  "exports": {
+    ".": "./src/render.js",
+    "./render": "./src/render.js",
+    "./metrics": "./src/metrics.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "worker.js",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "badges": "node bin/cli.js batch badges.json --out-dir ../assets/link-badges",
+    "demo": "node bin/cli.js batch demo/demo.json --out-dir demo",
+    "serve": "node bin/cli.js serve",
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "keywords": ["svg", "badge", "readme", "github", "link", "cli"]
+}

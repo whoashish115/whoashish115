@@ -1,33 +1,24 @@
 # Demo
 
-These were rendered locally by running `worker.js` directly (no deployment needed to test the logic) — the SVG bytes are exactly what a deployed Worker would return for each query string.
+Rendered with `npm run demo` (`demo/demo.json` → `demo/`). The SVG bytes are exactly what a deployed Worker returns for the equivalent query string.
 
-![Website](demo/website.svg)
-`?text=Website&color=e861b2`
+| Badge | Options |
+|---|---|
+| ![Website](demo/website.svg) | *(defaults)* |
+| ![GitHub Quests](demo/github-quests.svg) | `weight: 600` |
+| ![Hello World](demo/hello-world-green.svg) | `color: 22c55e, size: 20` |
+| ![Monospace Text](demo/monospace-blue.svg) | `color: 3b82f6, font: mono` |
+| ![Bold Pink](demo/bold-pink-700.svg) | *(defaults — weight 700)* |
+| ![Conway's Game of Life](demo/conway-apostrophe.svg) | apostrophe measured correctly |
+| ![Serif Heading](demo/serif-big.svg) | `color: f97316, font: serif, size: 28` |
+| ![No underline](demo/no-underline.svg) | `underline: false` |
+| ![Descenders](demo/descenders.svg) | descenders are not clipped |
 
-![GitHub Quests](demo/github-quests.svg)
-`?text=GitHub%20Quests&color=e861b2`
+Inline against prose, which is the real test of the baseline maths:
 
-![Hello World](demo/hello-world-green.svg)
-`?text=Hello%20World&color=22c55e&size=20`
+- [<img src="../assets/link-badges/hypertracer.svg" alt="Hypertracer" align="absmiddle">](https://github.com/whoashish115/hypertracer) - From-scratch ray tracer in C++ with CUDA GPU acceleration and physically based rendering.
+- [<img src="../assets/link-badges/wintergreen.svg" alt="Wintergreen" align="absmiddle">](https://github.com/whoashish115/wintergreen) - Vector search library with Flat, IVF, HNSW, Product Quantization, and K-Means indexes in C++.
+- [<img src="../assets/link-badges/autiepie.svg" alt="Autiepie" align="absmiddle">](https://github.com/whoashish115/autiepie) - Regex engine in C++ using Thompson's NFA construction for backtracking-free linear-time matching.
+- [<img src="../assets/link-badges/uwun.svg" alt="Uwun" align="absmiddle">](https://github.com/whoashish115/uwun) - Lightweight cross-platform VPN tunneling IP traffic over mutual TLS using OpenSSL in modern C++.
 
-![Monospace Text](demo/monospace-blue.svg)
-`?text=Monospace%20Text&color=3b82f6&font=mono`
-
-![Bold Purple](demo/bold-purple-700.svg)
-`?text=Bold%20Purple&color=8b5cf6&weight=700`
-
-![Conway's Game of Life](demo/conway-apostrophe.svg)
-`?text=Conway%27s%20Game%20of%20Life&color=e861b2`
-
-![Serif Heading](demo/serif-big.svg)
-`?text=Serif%20Heading&color=f97316&font=serif&size=28`
-
-Once deployed, replace `demo/<file>.svg` above with `https://YOUR-WORKER-URL/badge?...` to get the same render live from the API instead of a static file.
-
-### Systems & Low-Level
-
-- [<img src="../assets/link-badges/hypertracer.svg" alt="Hypertracer" align="start">](https://github.com/whoashish115/hypertracer) - From-scratch ray tracer in C++ with CUDA GPU acceleration and physically based rendering.
-- [<img src="assets/link-badges/wintergreen.svg" alt="Wintergreen" align="start">](https://github.com/whoashish115/wintergreen) - Vector search library with Flat, IVF, HNSW, Product Quantization, and K-Means indexes in C++.
-- [<img src="assets/link-badges/autiepie.svg" alt="Autiepie" align="start">](https://github.com/whoashish115/autiepie) - Regex engine in C++ using Thompson's NFA construction for backtracking-free linear-time matching.
-- [<img src="assets/link-badges/uwun.svg" alt="Uwun" align="start">](https://github.com/whoashish115/uwun) - Lightweight cross-platform VPN tunneling IP traffic over mutual TLS using OpenSSL in modern C++.
+Once deployed, swap `demo/<file>.svg` for `https://YOUR-WORKER-URL/badge?...` to get the same render live.

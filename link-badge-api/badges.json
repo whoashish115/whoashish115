@@ -1,0 +1,210 @@
+{
+  "defaults": {
+    "color": "C2428F",
+    "font": "system",
+    "size": 15,
+    "weight": 700
+  },
+  "badges": [
+    {
+      "text": "Hypertracer"
+    },
+    {
+      "text": "Wintergreen"
+    },
+    {
+      "text": "Autiepie"
+    },
+    {
+      "text": "Uwun"
+    },
+    {
+      "text": "Object Detection Using YOLO"
+    },
+    {
+      "text": "Virtual Assistant"
+    },
+    {
+      "text": "Wonder Hive"
+    },
+    {
+      "text": "Niko Waves"
+    },
+    {
+      "text": "Blocky Net"
+    },
+    {
+      "text": "Aether Nest"
+    },
+    {
+      "text": "Nova Social"
+    },
+    {
+      "text": "Nyron Ring"
+    },
+    {
+      "text": "Retro Palace"
+    },
+    {
+      "text": "Vox Cell"
+    },
+    {
+      "text": "Bit Space"
+    },
+    {
+      "text": "Solid Explore"
+    },
+    {
+      "text": "Baka Pager"
+    },
+    {
+      "text": "Neuro Vance"
+    },
+    {
+      "text": "Luxe Artifacts"
+    },
+    {
+      "text": "Giggle Charisma"
+    },
+    {
+      "text": "Terminal Portfolio"
+    },
+    {
+      "text": "Med Experts"
+    },
+    {
+      "text": "Sacred Geometry"
+    },
+    {
+      "text": "Hypercube Visualization"
+    },
+    {
+      "text": "Procedural Map Generation"
+    },
+    {
+      "text": "Procedural Dungeon Generation"
+    },
+    {
+      "text": "Sketches"
+    },
+    {
+      "text": "Space Colonization Algorithm"
+    },
+    {
+      "text": "Conway's Game of Life"
+    },
+    {
+      "text": "Cube Cracker"
+    },
+    {
+      "text": "Void Break"
+    },
+    {
+      "text": "Space Shooter"
+    },
+    {
+      "text": "Cyber Swarm Escape"
+    },
+    {
+      "text": "Snake Game"
+    },
+    {
+      "text": "Maze Flux"
+    },
+    {
+      "text": "Sudoku Solver"
+    },
+    {
+      "text": "Gene Archive"
+    },
+    {
+      "text": "Solistra Bot"
+    },
+    {
+      "text": "Auralis Bot"
+    },
+    {
+      "text": "GitHub Avatar Crawler"
+    },
+    {
+      "text": "Moe Kaiketsu"
+    },
+    {
+      "text": "Library Management"
+    },
+    {
+      "text": "Archive Toolkit"
+    },
+    {
+      "text": "CSES"
+    },
+    {
+      "text": "SPOJ"
+    },
+    {
+      "text": "Tensara"
+    },
+    {
+      "text": "Rosalind"
+    },
+    {
+      "text": "Project Euler"
+    },
+    {
+      "text": "Website",
+      "weight": 600
+    },
+    {
+      "text": "GitHub",
+      "weight": 600
+    },
+    {
+      "text": "LinkedIn",
+      "weight": 600
+    },
+    {
+      "text": "Hugging Face",
+      "weight": 600
+    },
+    {
+      "text": "Kaggle",
+      "weight": 600
+    },
+    {
+      "text": "Bluesky",
+      "weight": 600
+    },
+    {
+      "text": "Mastodon",
+      "weight": 600
+    },
+    {
+      "text": "Matrix",
+      "weight": 600
+    },
+    {
+      "text": "E-Mail",
+      "weight": 600
+    },
+    {
+      "text": "Created PRs",
+      "weight": 600
+    },
+    {
+      "text": "Merged PRs",
+      "weight": 600
+    },
+    {
+      "text": "Reviewed PRs",
+      "weight": 600
+    },
+    {
+      "text": "All Involvements",
+      "weight": 600
+    },
+    {
+      "text": "sponsoring me",
+      "weight": 600
+    }
+  ]
+}

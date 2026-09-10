@@ -1,0 +1,14 @@
+{
+  "defaults": { "color": "C2428F", "size": 15, "weight": 700 },
+  "badges": [
+    { "text": "Website", "name": "website" },
+    { "text": "GitHub Quests", "name": "github-quests", "weight": 600 },
+    { "text": "Hello World", "name": "hello-world-green", "color": "22c55e", "size": 20 },
+    { "text": "Monospace Text", "name": "monospace-blue", "color": "3b82f6", "font": "mono" },
+    { "text": "Bold Pink", "name": "bold-pink-700" },
+    { "text": "Conway's Game of Life", "name": "conway-apostrophe" },
+    { "text": "Serif Heading", "name": "serif-big", "color": "f97316", "font": "serif", "size": 28 },
+    { "text": "No underline", "name": "no-underline", "underline": false },
+    { "text": "gypsy jag descenders", "name": "descenders" }
+  ]
+}
