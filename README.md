@@ -154,21 +154,21 @@ Your sponsorship means a lot to me. It will help me sustain my projects actively
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=whoashish115&custom_title=Nerdy%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=1b1c24&hide_border=true&title_color=E9A8CC&icon_color=C2428F&text_color=9198A1&ring_color=C2428F">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=whoashish115&custom_title=Nerdy%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=d7d8e0&hide_border=true&title_color=A52F72&icon_color=C2428F&text_color=656D76&ring_color=C2428F">
-    <img alt="Nerdy Stats" src="https://github-stats-extended.vercel.app/api?username=whoashish115&custom_title=Nerdy%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=d7d8e0&hide_border=true&title_color=E9A8CC&icon_color=C2428F&text_color=9198A1&ring_color=C2428F" width="410" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=whoashish115&custom_title=Nerdy%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=e8e9ed&hide_border=true&title_color=A52F72&icon_color=C2428F&text_color=656D76&ring_color=C2428F">
+    <img alt="Nerdy Stats" src="https://github-stats-extended.vercel.app/api?username=whoashish115&custom_title=Nerdy%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=e8e9ed&hide_border=true&title_color=E9A8CC&icon_color=C2428F&text_color=9198A1&ring_color=C2428F" width="410" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=whoashish115&layout=compact&langs_count=20&disable_animations=true&bg_color=1b1c24&hide_border=true&title_color=E9A8CC&text_color=9198A1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=whoashish115&layout=compact&langs_count=20&disable_animations=true&bg_color=d7d8e0&hide_border=true&title_color=A52F72&text_color=656D76">
-    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=whoashish115&layout=compact&langs_count=20&disable_animations=true&bg_color=d7d8e0&hide_border=true&title_color=E9A8CC&text_color=9198A1" width="300" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=whoashish115&layout=compact&langs_count=20&disable_animations=true&bg_color=e8e9ed&hide_border=true&title_color=A52F72&text_color=656D76">
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=whoashish115&layout=compact&langs_count=20&disable_animations=true&bg_color=e8e9ed&hide_border=true&title_color=E9A8CC&text_color=9198A1" width="300" />
   </picture>
 </div>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-whoashish115.vercel.app/graph?username=whoashish115&custom_title=Contribution%20Graph&bg_color=1b1c24&hide_border=true&area=true&radius=8&title_color=E9A8CC&color=9198A1&line=C2428F&point=F7D6EA&area_color=C2428F">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-whoashish115.vercel.app/graph?username=whoashish115&custom_title=Contribution%20Graph&bg_color=d7d8e0&hide_border=true&area=true&radius=8&title_color=A52F72&color=656D76&line=C2428F&point=7A2154&area_color=E9A8CC">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph-whoashish115.vercel.app/graph?username=whoashish115&custom_title=Contribution%20Graph&bg_color=d7d8e0&hide_border=true&area=true&radius=8&title_color=E9A8CC&color=9198A1&line=C2428F&point=F7D6EA&area_color=C2428F" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-whoashish115.vercel.app/graph?username=whoashish115&custom_title=Contribution%20Graph&bg_color=e8e9ed&hide_border=true&area=true&radius=8&title_color=A52F72&color=656D76&line=C2428F&point=7A2154&area_color=E9A8CC">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph-whoashish115.vercel.app/graph?username=whoashish115&custom_title=Contribution%20Graph&bg_color=e8e9ed&hide_border=true&area=true&radius=8&title_color=E9A8CC&color=9198A1&line=C2428F&point=F7D6EA&area_color=C2428F" />
 </picture>
 
 
