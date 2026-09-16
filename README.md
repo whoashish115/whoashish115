@@ -1,4 +1,4 @@
-# hello there
+# Konnichiwa! :3
 
 I love exploring **LLMs, diffusion and generative models, multimodal AI, world models, reasoning, agents, computer vision, GPUs, and ML systems**. I enjoy building models from scratch, reproducing research ideas, running experiments, and understanding what makes these systems work.
 
