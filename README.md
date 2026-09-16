@@ -5,9 +5,9 @@ I love exploring **LLMs, diffusion and generative models, multimodal AI, world m
 I’m constantly experimenting with new ideas, often exploring different directions and following whatever sparks my curiosity. Some experiments evolve into larger projects, while others simply help me understand something new and lead me to the next idea.
 
 
-[Website](https://whoashish.com) · [Email](mailto:whoashish115@gmail.com) · [X](https://x.com/whoashish115) · [Hugging Face](https://huggingface.co/whoashish115)
-
+[Website](https://whoashish.com) · [Email](mailto:whoashish115@gmail.com) · [X](https://x.com/whoashish115) · [Hugging Face](https://huggingface.co/whoashish115) · [Kaggle](https://www.kaggle.com/whoashish115) · [Civitai](https://civitai.com/user/whoashish115) · [ModelScope](https://modelscope.cn/profile/whoashish115)
 
 [Sponsor](https://github.com/sponsors/whoashish115) - every sponsorship helps me keep building and researching
 
 Thanks for stopping by :)
+
