@@ -11,3 +11,4 @@ I’m constantly experimenting with new ideas, often exploring different directi
 
 Thanks for stopping by :)
 
+  <img src="https://count.getloli.com/@polymorpherxx?name=whoashish115&theme=rule34&padding=10&offset=0&align=top&scale=1.6&pixelated=1&darkmode=auto" width="550" />
